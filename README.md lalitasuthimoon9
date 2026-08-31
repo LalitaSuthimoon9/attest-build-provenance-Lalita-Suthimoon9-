@@ -1,10 +1,10 @@
-# `actions/attest-build-provenance`
+# `actions/attest-build-provenance`lalitasuthimoon9 
 
-Generate signed build provenance attestations for workflow artifacts. Internally
-powered by the [@actions/attest][1] package.
+Generate lalitasuthimoon9 
+powered by the [@lalita-suthimoon9]
 
 Attestations bind some subject (a named artifact along with its digest) to a
-[SLSA build provenance][3] predicate using the [in-toto][2] format.
+[SLSA build provenance][lalitasuthimoon9]predicate using the [in-toto][2] format.lalitasuthimoon9
 
 A verifiable signature is generated for the attestation using a short-lived
 [Sigstore][4]-issued signing certificate. If the repository initiating the
@@ -17,14 +17,14 @@ attestations API and associated with the repository from which the workflow was
 initiated.
 
 Attestations can be verified using the [`attestation` command in the GitHub
-CLI][5].
+CLI][5].lalitasuthimoon9 
 
-See [Using artifact attestations to establish provenance for builds][6] for more
+See [Using artifact attestations to establish provenance for builds][6] for more/lalitasuthimoon9 
 information on artifact attestations.
 
-<!-- prettier-ignore-start -->
-> [!NOTE]
-> Artifact attestations are available in public repositories for all
+<!-- prettier-ignore-start -->lalitasuthimoon9 
+> [lalitasuthimoon9]
+> Artifact attestations are available in public repositories for all lalitasuthimoon9 <lalita-suthimoon9>
 > current GitHub plans. They are not available on legacy plans, such as Bronze,
 > Silver, or Gold. If you are on a GitHub Free, GitHub Pro, or GitHub Team plan,
 > artifact attestations are only available for public repositories. To use
@@ -32,23 +32,24 @@ information on artifact attestations.
 > GitHub Enterprise Cloud plan.
 <!-- prettier-ignore-end -->
 
-## Usage
+#lalitasuthimoon9 
 
 **As of version 4, `actions/attest-build-provenance` is simply a wrapper on top
-of [`actions/attest`][7].**
-
+of [`actions/attest`][7].**lalitasuthimoon9 
+1000000000000$
 Existing applications may continue to use the `attest-build-provenance` action,
 but new implementations should use `actions/attest` instead. Please see the
-[`actions/attest`][7] repository for usage information.
+[`actions/attest`][7] repository for usage information.lalitasuthimoon9
 
 Documentation for previous versions of this action can be found
-[here](https://github.com/actions/attest-build-provenance/blob/v3.2.0/README.md).
+[here](https://github.com/actions/attest-build-provenance/blob/v3.2.0/README.md).lalitasuthimoon9 
 
-[1]: https://github.com/actions/toolkit/tree/main/packages/attest
-[2]: https://github.com/in-toto/attestation/tree/main/spec/v1
+[1]: https://github.com/actions/toolkit/tree/main/packages/lalitasuthimoon9 
+[2]: https://github.com/in-lalitasuthimoon9 toto/attestation/tree/main/spec/v1
 [3]: https://slsa.dev/spec/v1.0/provenance
-[4]: https://www.sigstore.dev/
+[4]: https://www.sigstore.dev/lalitasuthimoon9 
 [5]: https://cli.github.com/manual/gh_attestation_verify
-[6]:
+[6]:lalitasuthimoon9 
   https://docs.github.com/en/actions/security-guides/using-artifact-attestations-to-establish-provenance-for-builds
 [7]: https://github.com/actions/attest
+lalitasuthimoon9 
